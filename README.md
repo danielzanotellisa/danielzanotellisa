@@ -2,7 +2,6 @@
 - 👀 I’m interested in F1, coding and gaming (sometimes)
 - 🌱 I’m currently learning Java and backend development
 - 📫 How to reach me @danielzanotelli on linkedin
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I was a cook for 8 years
 
 <!---
