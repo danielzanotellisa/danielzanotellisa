@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danielzanotellisa
 - 👀 I’m interested in F1, coding and gaming (sometimes)
-- 🌱 I’m currently working at Braip as a full-stack developer
+- 🌱 I’m a full-stack developer
 - 📫 How to reach me @danielzanotelli on linkedin
 - ⚡ Fun fact: I was a cook for 8 years
 
